@@ -1,6 +1,6 @@
 # HR Analytics Dashboard - Power BI Project
 
-![HR Dashboard Screenshot](./HR_pages-to-jpg-0001.jpg)
+![HR Dashboard Screenshot](./Report photo.jpg)
 
 ## 📊 Overview
 
